@@ -14,7 +14,7 @@ export const MOCK_HOLDERS: NecklaceHolder[] = [
     id: 'cable-chain',
     name: 'Cable Chain',
     basePrice: 85,
-    imageUrl: 'https://images.clothes.com/b/67bd97ca465451e0419472ba/1740478411030_image.png',
+    imageUrl: './images/chains/cable-chain.png',
     description: 'A classic and versatile chain with uniform oval links.'
   },
   {
